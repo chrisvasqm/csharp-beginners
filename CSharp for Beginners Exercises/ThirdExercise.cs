@@ -11,6 +11,7 @@ namespace CSharp_for_Beginners_Exercises
         {
             Console.WriteLine("Type in the number you want to find the factorial: ");
             var input = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("{0}! = {1}", input, Factorial(input));
         }
 
