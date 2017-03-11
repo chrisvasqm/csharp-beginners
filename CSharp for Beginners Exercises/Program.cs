@@ -13,8 +13,11 @@ namespace CSharp_for_Beginners_Exercises
 //            var secondExercise = new SecondExercise();
 //            secondExercise.Run();
 
-            var thirdExercise = new ThirdExercise();
-            thirdExercise.Run();
+//            var thirdExercise = new ThirdExercise();
+//            thirdExercise.Run();
+
+            var fourthExercise = new FourthExercise();
+            fourthExercise.Run();
 
             Console.ReadKey();
         }
