@@ -1,4 +1,6 @@
 ﻿
+using System;
+
 namespace CSharp_for_Beginners_Exercises
 {
     internal class Program
@@ -7,6 +9,9 @@ namespace CSharp_for_Beginners_Exercises
         {
             var firstExercise = new FirstExercise();
             firstExercise.Run();
+
+            var secondExercise = new SecondExercise();
+            secondExercise.Run();
         }
     }
 }
