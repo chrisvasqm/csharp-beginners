@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Conditionals\FirstExercise.cs" />
     <Compile Include="Conditionals\SecondExercise.cs" />
+    <Compile Include="Conditionals\ThirdExercise.cs" />
     <Compile Include="Loops\FifthExercise.cs" />
     <Compile Include="Loops\FirstExercise.cs" />
     <Compile Include="Loops\FourthExercise.cs" />
