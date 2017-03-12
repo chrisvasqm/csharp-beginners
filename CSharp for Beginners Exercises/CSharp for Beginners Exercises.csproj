@@ -43,14 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FifthExercise.cs" />
-    <Compile Include="FirstExercise.cs" />
-    <Compile Include="FourthExercise.cs" />
+    <Compile Include="Conditionals\FirstExercise.cs" />
+    <Compile Include="Loops\FifthExercise.cs" />
+    <Compile Include="Loops\FirstExercise.cs" />
+    <Compile Include="Loops\FourthExercise.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SecondExercise.cs" />
+    <Compile Include="Loops\SecondExercise.cs" />
     <Compile Include="Post.cs" />
-    <Compile Include="ThirdExercise.cs" />
+    <Compile Include="Loops\ThirdExercise.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

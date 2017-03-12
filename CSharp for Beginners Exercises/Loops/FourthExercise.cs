@@ -4,7 +4,7 @@
 
 using System;
 
-namespace CSharp_for_Beginners_Exercises
+namespace CSharp_for_Beginners_Exercises.Loops
 {
     internal class FourthExercise
     {

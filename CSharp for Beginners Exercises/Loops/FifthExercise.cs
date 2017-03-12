@@ -5,7 +5,7 @@
 using System;
 using System.Linq;
 
-namespace CSharp_for_Beginners_Exercises
+namespace CSharp_for_Beginners_Exercises.Loops
 {
     internal class FifthExercise
     {
