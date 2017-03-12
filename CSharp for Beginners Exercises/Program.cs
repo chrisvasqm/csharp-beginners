@@ -1,6 +1,5 @@
-﻿
-using System;
-using CSharp_for_Beginners_Exercises.Loops;
+﻿using System;
+using CSharp_for_Beginners_Exercises.Conditionals;
 
 namespace CSharp_for_Beginners_Exercises
 {
@@ -20,8 +19,11 @@ namespace CSharp_for_Beginners_Exercises
 //            var fourthExercise = new FourthExercise();
 //            fourthExercise.Run();
 
-            var fifthExercise = new FifthExercise();
-            fifthExercise.Run();
+//            var fifthExercise = new FifthExercise();
+//            fifthExercise.Run();
+
+            var firstExercise = new FirstExercise();
+            firstExercise.Run();
 
             Console.ReadKey();
         }
