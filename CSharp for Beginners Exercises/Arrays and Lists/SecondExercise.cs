@@ -3,7 +3,6 @@
 
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace CSharp_for_Beginners_Exercises.Arrays_and_Lists
 {
