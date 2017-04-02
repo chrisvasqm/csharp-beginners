@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arrays and Lists\FifthExercise.cs" />
     <Compile Include="Arrays and Lists\FirstExercise.cs" />
+    <Compile Include="Arrays and Lists\FourthExercise.cs" />
     <Compile Include="Arrays and Lists\SecondExercise.cs" />
     <Compile Include="Conditionals\FirstExercise.cs" />
     <Compile Include="Conditionals\FourthExercise.cs" />

@@ -7,8 +7,8 @@ namespace CSharp_for_Beginners_Exercises
     {
         private static void Main(string[] args)
         {
-            var thirdExercise = new ThirdExercise();
-            thirdExercise.Run();
+            var fifthExercise = new FifthExercise();
+            fifthExercise.Run();
 
             Console.ReadKey();
         }
