@@ -1,5 +1,5 @@
 ﻿using System;
-using CSharp_for_Beginners_Exercises.Conditionals;
+using CSharp_for_Beginners_Exercises.Arrays_and_Lists;
 
 namespace CSharp_for_Beginners_Exercises
 {
@@ -7,8 +7,8 @@ namespace CSharp_for_Beginners_Exercises
     {
         private static void Main(string[] args)
         {
-            var fourthExercise = new FourthExercise();
-            fourthExercise.Run();
+            var firstExercise = new FirstExercise();
+            firstExercise.Run();
 
             Console.ReadKey();
         }
