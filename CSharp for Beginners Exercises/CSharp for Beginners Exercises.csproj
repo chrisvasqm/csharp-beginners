@@ -60,6 +60,7 @@
     <Compile Include="Post.cs" />
     <Compile Include="Loops\ThirdExercise.cs" />
     <Compile Include="Arrays and Lists\ThirdExercise.cs" />
+    <Compile Include="Working with Text\FirstExercise.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
