@@ -1,5 +1,5 @@
 ﻿using System;
-using FirstExercise = CSharp_for_Beginners_Exercises.Working_with_Text.FirstExercise;
+using SecondExercise = CSharp_for_Beginners_Exercises.Working_with_Text.SecondExercise;
 
 namespace CSharp_for_Beginners_Exercises
 {
@@ -7,8 +7,8 @@ namespace CSharp_for_Beginners_Exercises
     {
         private static void Main(string[] args)
         {
-            var firstExercise = new FirstExercise();
-            firstExercise.Run();
+            var secondExercise = new SecondExercise();
+            secondExercise.Run();
 
             Console.ReadKey();
         }
