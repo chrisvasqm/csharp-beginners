@@ -6,19 +6,19 @@ using System;
 
 namespace CSharp_for_Beginners_Exercises.Control_Flow
 {
-    internal class FirstExercise
+    internal class ValidNumber
     {
         public void Run()
         {
             Console.WriteLine("Enter a number between 1 to 10");
-            var input = Convert.ToInt32(Console.ReadLine());
+            var number = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(IsBetweenOneToTen(input) ? "Valid" : "Invalid");
+            Console.WriteLine(IsBetweenOneToTen(number) ? "Valid" : "Invalid");
         }
 
-        private static bool IsBetweenOneToTen(int input)
+        private static bool IsBetweenOneToTen(int number)
         {
-            return input >= 1 && input <= 10;
+            return number >= 1 && number <= 10;
         }
     }
 }
