@@ -7,7 +7,7 @@
 
 using System;
 
-namespace CSharp_for_Beginners_Exercises.Conditionals
+namespace CSharp_for_Beginners_Exercises.Control_Flow
 {
     internal class FourthExercise
     {
