@@ -9,7 +9,12 @@ namespace CSharp_for_Beginners_Exercises.Control_Flow
         public static void Run()
         {
             Console.WriteLine("Type in 2 numbers (separated by space)to be compared to know which one is the highest");
-            var numbers = Console.ReadLine()?.Split(' ').Select(int.Parse).ToArray();
+            var numbers = Console
+                .ReadLine()?
+                .Split(' ')
+                .Select(int.Parse)
+                .ToArray();
+            
             var firstNumber = Convert.ToInt32(numbers?.First());
             var secondNumber = Convert.ToInt32(numbers?.Last());
             
