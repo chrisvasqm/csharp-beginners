@@ -50,7 +50,7 @@
       <Compile Include="Control Flow\ValidNumber.cs"/>
       <Compile Include="Control Flow\MaxTwoIntegers.cs"/>
       <Compile Include="Control Flow\FourthExercise.cs"/>
-      <Compile Include="Control Flow\ThirdExercise.cs"/>
+      <Compile Include="Control Flow\LandscapePortraitImage.cs"/>
     <Compile Include="Loops\FifthExercise.cs" />
     <Compile Include="Loops\FirstExercise.cs" />
     <Compile Include="Loops\FourthExercise.cs" />
