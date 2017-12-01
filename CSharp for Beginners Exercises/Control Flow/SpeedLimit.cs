@@ -10,9 +10,9 @@ namespace CSharp_for_Beginners_Exercises.Control_Flow
      * the number of demerit points. For every 5km/hr above the speed limit, 1 demerit poinst should be incurred and
      * displayed on the console. If the number of demerit poinst is above 12, the program should display License Suspended.
      */
-    internal class FourthExercise
+    internal static class SpeedLimit
     {
-        public void Run()
+        public static void Run()
         {
             Console.WriteLine("Enter the speed limit value: ");
             var speedLimit = Convert.ToInt32(Console.ReadLine());
