@@ -11,15 +11,13 @@ namespace CSharp_for_Beginners_Exercises.Control_Flow
     {
         public static void Run()
         {
-            Console.WriteLine("Type in the width of the image like '1920x1080' ");
-            var resolution = Console
-                .ReadLine()?
-                .Split('x')
-                .Select(int.Parse)
-                .ToArray();
+            Console.WriteLine("Type in the width of an image to know if it is on Landscape or Portrait:");
+
+            Console.WriteLine("Width: ");
+            var width = Convert.ToInt32(Console.ReadLine());
             
-            var width = Convert.ToInt32(resolution?.First());
-            var heigth = Convert.ToInt32(resolution?.Last());
+            Console.WriteLine("Height: ");
+            var heigth = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine(GetImageOrientation(width, heigth));
         }
