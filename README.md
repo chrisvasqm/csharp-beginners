@@ -13,6 +13,6 @@ course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](http
 - [x] FindMaxFromList
 
 ## Section 6 - Arrays and Lists
--[x] FriendsWhoLikeYourPost
--[x] ReverseGivenName
--[x] SortFiveUniqueNumbers
+- [x] FriendsWhoLikeYourPost
+- [x] ReverseGivenName   
+- [x] SortFiveUniqueNumbers
