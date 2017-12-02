@@ -46,7 +46,7 @@
     <Compile Include="Arrays and Lists\FifthExercise.cs" />
       <Compile Include="Arrays and Lists\FriendsWhoLikeYourPost.cs"/>
     <Compile Include="Arrays and Lists\FourthExercise.cs" />
-    <Compile Include="Arrays and Lists\SecondExercise.cs" />
+      <Compile Include="Arrays and Lists\ReverseGivenName.cs"/>
       <Compile Include="Control Flow\DivisibleByThree.cs"/>
       <Compile Include="Control Flow\FindMaxFromList.cs"/>
       <Compile Include="Control Flow\GuessRandomNumber.cs"/>
