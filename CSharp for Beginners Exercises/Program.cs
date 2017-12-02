@@ -1,4 +1,4 @@
-﻿using CSharp_for_Beginners_Exercises.Arrays_and_Lists;
+﻿using CSharp_for_Beginners_Exercises.Control_Flow;
 
 namespace CSharp_for_Beginners_Exercises
 {
@@ -6,7 +6,6 @@ namespace CSharp_for_Beginners_Exercises
     {
         public static void Main(string[] args)
         {
-            FriendsWhoLikeYourPost.Run();
         }
     }
 }
