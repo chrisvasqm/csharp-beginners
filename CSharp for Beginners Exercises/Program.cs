@@ -1,4 +1,4 @@
-﻿using CSharp_for_Beginners_Exercises.Control_Flow;
+﻿using CSharp_for_Beginners_Exercises.Arrays_and_Lists;
 
 namespace CSharp_for_Beginners_Exercises
 {
@@ -6,6 +6,7 @@ namespace CSharp_for_Beginners_Exercises
     {
         public static void Main(string[] args)
         {
+            ListSeparatedWithComa.Run();
         }
     }
 }
