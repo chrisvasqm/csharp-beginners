@@ -48,8 +48,8 @@
     <Compile Include="Arrays and Lists\FourthExercise.cs" />
     <Compile Include="Arrays and Lists\SecondExercise.cs" />
       <Compile Include="Control Flow\ValidNumber.cs"/>
-      <Compile Include="Control Flow\MaxTwoIntegers.cs"/>
-      <Compile Include="Control Flow\SpeedLimit.cs"/>
+      <Compile Include="Control Flow\MaxTwoNumbers.cs"/>
+      <Compile Include="Control Flow\CarSpeedLimit.cs"/>
       <Compile Include="Control Flow\LandscapePortraitImage.cs"/>
     <Compile Include="Loops\FifthExercise.cs" />
     <Compile Include="Loops\FirstExercise.cs" />

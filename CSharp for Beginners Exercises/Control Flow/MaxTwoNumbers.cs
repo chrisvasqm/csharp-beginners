@@ -4,7 +4,7 @@ using System.Linq;
 namespace CSharp_for_Beginners_Exercises.Control_Flow
 {
     // Write a program which takes two numbers from the console and displays the maximum of the two.
-    internal static class MaxTwoIntegers
+    internal static class MaxTwoNumbers
     {
         public static void Run()
         {
