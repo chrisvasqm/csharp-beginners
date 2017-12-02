@@ -49,6 +49,7 @@
     <Compile Include="Arrays and Lists\SecondExercise.cs" />
       <Compile Include="Control Flow\DivisibleByThree.cs"/>
       <Compile Include="Control Flow\SumAllEnteredNumbers.cs"/>
+      <Compile Include="Control Flow\FindFactorial.cs"/>
       <Compile Include="Control Flow\ValidNumber.cs"/>
       <Compile Include="Control Flow\MaxTwoNumbers.cs"/>
       <Compile Include="Control Flow\CarSpeedLimit.cs"/>
@@ -57,7 +58,6 @@
     <Compile Include="Loops\FourthExercise.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Loops\ThirdExercise.cs" />
     <Compile Include="Arrays and Lists\ThirdExercise.cs" />
     <Compile Include="Working with Text\FirstExercise.cs" />
     <Compile Include="Working with Text\SecondExercise.cs" />
