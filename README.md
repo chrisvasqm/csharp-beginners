@@ -15,3 +15,4 @@ course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](http
 ## Section 6 - Arrays and Lists
 -[x] FriendsWhoLikeYourPost
 -[x] ReverseGivenName
+-[x] SortFiveUniqueNumbers
