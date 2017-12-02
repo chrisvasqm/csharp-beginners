@@ -8,3 +8,4 @@ course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](http
 - [x] LandscapePortraitImage
 - [x] CarSpeedLimit
 - [x] DivisibleByThree
+- [x] SumAllEnteredNumbers
