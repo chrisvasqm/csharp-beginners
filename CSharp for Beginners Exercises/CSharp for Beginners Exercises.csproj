@@ -47,12 +47,12 @@
     <Compile Include="Arrays and Lists\FirstExercise.cs" />
     <Compile Include="Arrays and Lists\FourthExercise.cs" />
     <Compile Include="Arrays and Lists\SecondExercise.cs" />
+      <Compile Include="Control Flow\DivisibleByThree.cs"/>
       <Compile Include="Control Flow\ValidNumber.cs"/>
       <Compile Include="Control Flow\MaxTwoNumbers.cs"/>
       <Compile Include="Control Flow\CarSpeedLimit.cs"/>
       <Compile Include="Control Flow\LandscapePortraitImage.cs"/>
     <Compile Include="Loops\FifthExercise.cs" />
-    <Compile Include="Loops\FirstExercise.cs" />
     <Compile Include="Loops\FourthExercise.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
