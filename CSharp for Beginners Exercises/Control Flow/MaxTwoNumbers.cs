@@ -11,6 +11,7 @@ namespace CSharp_for_Beginners_Exercises.Control_Flow
 
             Console.WriteLine("First number: ");
             var firstNumber = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("Second number: ");
             var secondNumber = Convert.ToInt32(Console.ReadLine());
 
