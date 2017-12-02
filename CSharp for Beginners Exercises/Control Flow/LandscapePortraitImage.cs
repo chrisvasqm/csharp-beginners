@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace CSharp_for_Beginners_Exercises.Control_Flow
 {
