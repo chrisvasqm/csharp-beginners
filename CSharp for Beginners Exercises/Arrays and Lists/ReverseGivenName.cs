@@ -14,7 +14,8 @@ namespace CSharp_for_Beginners_Exercises.Arrays_and_Lists
     {
         public static void Run()
         {
-            var name = AskForName();
+            Console.WriteLine("Enter the name you wish to reverse: ");
+            var name = Console.ReadLine();
             var reversedName = GetReversedName(name);
             
             Console.WriteLine("The name {0} gets reversed to {1}", name, reversedName);
@@ -26,13 +27,6 @@ namespace CSharp_for_Beginners_Exercises.Arrays_and_Lists
             list.Reverse();
 
             return string.Join("", list.ToArray());
-        }
-
-        private static string AskForName()
-        {
-            Console.WriteLine("Enter the name you wish to reverse: ");
-            
-            return Console.ReadLine();
         }
     }
 }
