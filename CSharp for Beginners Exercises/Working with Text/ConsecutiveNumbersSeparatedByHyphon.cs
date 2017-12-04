@@ -27,31 +27,44 @@ namespace CSharp_for_Beginners_Exercises.Working_with_Text
 
         private static bool IsConsecutive(List<int> numbers)
         {
-            var isAscending = numbers[0] - numbers[1] == -1;
+            var firstNumber = numbers[0];
+            var secondNumber = numbers[1];
+            var temporalNumber = firstNumber;
             var countConsecutives = 1;
-
-            if (isAscending)
+            if (IsAscending(firstNumber, secondNumber))
             {
-                for (var i = 0; i < numbers.Count - 1; i++)
+                foreach (var number in numbers)
                 {
-                    if (i == numbers.Count && numbers[i - 1] - numbers[i] == -1)
+                    if (IsAscending(temporalNumber, number))
+                    {
+                        temporalNumber = number;
                         countConsecutives++;
-                    else if (numbers[i] - numbers[i + 1] == -1)
-                        countConsecutives++;
+                    }
                 }
             }
             else
             {
-                for (var i = 0; i < numbers.Count - 1; i++)
+                foreach (var number in numbers)
                 {
-                    if (i == numbers.Count && numbers[i - 1] - numbers[i] == 1)
+                    if (IsDescending(temporalNumber, number))
+                    {
+                        temporalNumber = number;
                         countConsecutives++;
-                    if (numbers[i] - numbers[i + 1] == 1)
-                        countConsecutives++;
+                    }
                 }
             }
 
             return numbers.Count == countConsecutives;
+        }
+
+        private static bool IsAscending(int current, int next)
+        {
+            return current - next == -1;
+        }
+
+        private static bool IsDescending(int current, int next)
+        {
+            return current - next == 1;
         }
     }
 }
