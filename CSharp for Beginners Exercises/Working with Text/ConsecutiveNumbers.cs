@@ -10,7 +10,7 @@ namespace CSharp_for_Beginners_Exercises.Working_with_Text
      * or "20-19-18-17-16", display a message: "Consecutive"; otherwise, display
      * "Not-Consecutive".
      */
-    internal static class ConsecutiveNumbersSeparatedByHyphen
+    internal static class ConsecutiveNumbers
     {
         public static void Run()
         {
