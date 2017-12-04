@@ -11,7 +11,7 @@ namespace CSharp_for_Beginners_Exercises.Working_with_Text
      *
      * If so, display "Duplicate" on the console.
      */
-    internal static class ExitEmptyOrFindDuplicate
+    internal static class FindDuplicate
     {
         public static void Run()
         {

@@ -17,4 +17,5 @@ course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](http
 - [x] ReverseGivenName   
 - [x] SortFiveUniqueNumbers
 - [x] ListSeparatedWithComa
-- [x] ConsecutiveNumbersSeparatedByHyphon
+- [x] ConsecutiveNumbersSeparatedByHyphen
+- [x] FindDuplicate
