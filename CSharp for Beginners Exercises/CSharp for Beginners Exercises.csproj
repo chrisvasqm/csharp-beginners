@@ -59,7 +59,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
       <Compile Include="Arrays and Lists\SortFiveUniqueNumbers.cs"/>
-      <Compile Include="Working with Text\ConsecutiveNumbersSeparatedByHyphon.cs"/>
+      <Compile Include="Working with Text\ConsecutiveNumbersSeparatedByHyphen.cs"/>
       <Compile Include="Working with Text\ExitEmptyOrFindDuplicate.cs"/>
   </ItemGroup>
   <ItemGroup>
