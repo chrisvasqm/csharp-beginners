@@ -18,6 +18,7 @@ course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](http
 - [x] ReverseGivenName   
 - [x] SortFiveUniqueNumbers
 - [x] ListSeparatedWithComa
+- [x] DisplayUniqueNumbers
 
 ## Section 8 - Working with Text
 - [x] ConsecutiveNumbers

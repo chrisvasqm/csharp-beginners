@@ -9,7 +9,7 @@ namespace CSharp_for_Beginners_Exercises.Arrays_and_Lists
      * to exit. The list of numbers may include duplicates. Display the unique numbers
      * that the user has entered.
      */
-    internal static class DisplayUniqueNumbersWithoutDuplicates
+    internal static class DisplayUniqueNumbers
     {
         public static void Run()
         {
