@@ -19,3 +19,6 @@ course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](http
 - [x] ListSeparatedWithComa
 - [x] ConsecutiveNumbers
 - [x] FindDuplicate
+
+## Section 9 - Working with Files
+- [x] NumberOfWordsInFile
