@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-      <Compile Include="Arrays and Lists\ListSeparatedWithComa.cs"/>
+      <Compile Include="Arrays and Lists\ThreeSmallestNumbersInList.cs"/>
       <Compile Include="Arrays and Lists\FriendsWhoLikeYourPost.cs"/>
       <Compile Include="Arrays and Lists\DisplayUniqueNumbersWithoutDuplicates.cs"/>
       <Compile Include="Arrays and Lists\ReverseGivenName.cs"/>

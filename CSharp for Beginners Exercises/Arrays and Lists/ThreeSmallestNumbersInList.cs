@@ -11,7 +11,7 @@ namespace CSharp_for_Beginners_Exercises.Arrays_and_Lists
      * If the list is empty or includes less than 5 numbers, display "Invalid List"
      * and ask the user to re-try; otherwise, display the 3 smallest numbers in the list.
      */
-    internal static class ListSeparatedWithComa
+    internal static class ThreeSmallestNumbersInList
     {
         public static void Run()
         {
