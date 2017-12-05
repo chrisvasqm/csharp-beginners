@@ -22,3 +22,4 @@ course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](http
 
 ## Section 9 - Working with Files
 - [x] NumberOfWordsInFile
+- [x] LongestWordInFile
