@@ -24,7 +24,7 @@ course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](http
 - [x] ConsecutiveNumbers
 - [x] FindDuplicate
 - [x] ValidTimeRange
-- [ ] ConvertWordToPascalCase
+- [x] ConvertWordToPascalCase
 - [ ] CountVowels
 
 ## Section 9 - Working with Files

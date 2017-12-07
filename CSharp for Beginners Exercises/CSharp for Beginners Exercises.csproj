@@ -62,8 +62,9 @@
       <Compile Include="Working with Files\LongestWordInFile.cs"/>
       <Compile Include="Working with Files\NumberOfWordsInFile.cs"/>
       <Compile Include="Working with Text\ConsecutiveNumbers.cs"/>
+      <Compile Include="Working with Text\ConvertWordToPascalCase.cs"/>
       <Compile Include="Working with Text\FindDuplicate.cs"/>
-    <Compile Include="Working with Text\ValidTimeRange.cs"/>
+      <Compile Include="Working with Text\ValidTimeRange.cs"/>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
