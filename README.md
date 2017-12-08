@@ -3,8 +3,10 @@ Sample code for all the exercises from the [C# Basics for Beginners](https://www
 course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](https://www.udemy.com/)
 
 ## [Section 5 - Control Flow](https://goo.gl/iVhUSX)
+
 In this section you will learn how to use **conditional statements** (_if-else_ & _switch-cases_) and **iteration statements** 
 (_for_, _foreach_ & _while_).
+
 ### [ValidNumber.cs](https://goo.gl/g943yz)
 
 Write a program and ask the user to enter a number. The number should be between 1 to 10. If the user enters a valid 
@@ -54,7 +56,7 @@ you can display the secret number on the console first.)
 Write a program and ask the user to enter a series of numbers separated by comma. Find the maximum of the numbers and 
 display it on the console. For example, if the user enters “5, 3, 8, 1, 4", the program should display 8.
 
-## Section 6 - Arrays and Lists
+## [Section 6 - Arrays and Lists](https://goo.gl/QQwxRt)
 - [x] FriendsWhoLikeYourPost
 - [x] ReverseGivenName   
 - [x] SortFiveUniqueNumbers
