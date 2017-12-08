@@ -71,7 +71,11 @@ If more than two people like your post, it displays: [Friend 1], [Friend 2] and 
 Write a program and continuously ask the user to enter different names, until the user presses Enter (without supplying 
 a name). Depending on the number of names provided, display a message based on the above pattern.
 
-### [ReverseGivenName.cs](https://goo.gl/gfXqWt)   
+### [ReverseGivenName.cs](https://goo.gl/gfXqWt)
+
+Write a program and ask the user to enter their name. Use an array to reverse the name and then store the result in a 
+new string. Display the reversed name on the console.
+   
 - [x] SortFiveUniqueNumbers
 - [x] ListSeparatedWithComa
 - [x] DisplayUniqueNumbers
