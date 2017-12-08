@@ -57,6 +57,9 @@ Write a program and ask the user to enter a series of numbers separated by comma
 display it on the console. For example, if the user enters “5, 3, 8, 1, 4", the program should display 8.
 
 ## [Section 6 - Arrays and Lists](https://goo.gl/QQwxRt)
+
+This section is focused on how Arrays and Lists work, what are their similarities and differences, and use cases.
+
 - [x] FriendsWhoLikeYourPost
 - [x] ReverseGivenName   
 - [x] SortFiveUniqueNumbers
