@@ -2,7 +2,7 @@
 Sample code for all the exercises from the [C# Basics for Beginners](https://www.udemy.com/csharp-tutorial-for-beginners/learn/v4/overview)
 course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](https://www.udemy.com/)
 
-## [Section 5 - Control Flow](https://goo.gl/iVhUSX)
+## Section 5 - Control Flow
 
 In this section you will learn how to use **conditional statements** (_if-else_ & _switch-cases_) and **iteration statements** 
 (_for_, _foreach_ & _while_).
@@ -56,7 +56,7 @@ you can display the secret number on the console first.)
 Write a program and ask the user to enter a series of numbers separated by comma. Find the maximum of the numbers and 
 display it on the console. For example, if the user enters “5, 3, 8, 1, 4", the program should display 8.
 
-## [Section 6 - Arrays and Lists](https://goo.gl/QQwxRt)
+## Section 6 - Arrays and Lists
 
 This section is focused on how Arrays and Lists work, what are their similarities and differences, and use cases.
 
@@ -76,7 +76,7 @@ a name). Depending on the number of names provided, display a message based on t
 Write a program and ask the user to enter their name. Use an array to reverse the name and then store the result in a 
 new string. Display the reversed name on the console.
    
-- [x] SortFiveUniqueNumbers
+### [SortFiveUniqueNumbers]()
 - [x] ListSeparatedWithComa
 - [x] DisplayUniqueNumbers
 
