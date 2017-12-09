@@ -76,7 +76,7 @@ a name). Depending on the number of names provided, display a message based on t
 Write a program and ask the user to enter their name. Use an array to reverse the name and then store the result in a 
 new string. Display the reversed name on the console.
    
-### [SortFiveUniqueNumbers]()
+### SortFiveUniqueNumbers
 - [x] ListSeparatedWithComa
 - [x] DisplayUniqueNumbers
 
