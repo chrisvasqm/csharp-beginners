@@ -112,7 +112,8 @@ Write a program and ask the user to enter a time value in the 24 hour time forma
 between 00:00 and 23:59. If the time is valid, display "Ok"; otherwise, display "Invalid Time". IF the user doesn't 
 provide any values, consider it as invalid time.
 
-- [x] ConvertWordToPascalCase
+### ConvertWordToPascalCase.cs
+
 - [x] CountVowels
 
 ## Section 9 - Working with Files
