@@ -135,6 +135,6 @@ In this section we will be reading the text content of a file that is in the sam
 
 Write a program that reads a text file and displays the number of words.
 
-### LongestWordInFile.cs
+### [LongestWordInFile.cs](https://goo.gl/1mXeqj)
 
 Write a program that reads a file and displays the longest word in the file.
