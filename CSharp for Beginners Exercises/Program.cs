@@ -1,12 +1,9 @@
-﻿using CSharp_for_Beginners_Exercises.Arrays_and_Lists;
-
-namespace CSharp_for_Beginners_Exercises
+﻿namespace CSharp_for_Beginners_Exercises
 {
-    class Program
+    internal class Program
     {
         public static void Main(string[] args)
         {
-            ListSeparatedWithComa.Run();
         }
     }
 }
