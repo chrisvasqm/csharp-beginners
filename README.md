@@ -120,6 +120,8 @@ is not dependent on the input. So, if the user types "NUMBER OF STUDENTS", the p
 
 ### CountVowels.cs
 
+Write a program and ask it to enter an English word. Count the nunber of vowels (a, e, i, o, u) in the word. So, if the 
+user enters "inadequate", the program should display 6 in the console.
 
 ## Section 9 - Working with Files
 - [x] NumberOfWordsInFile
