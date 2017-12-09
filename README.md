@@ -90,6 +90,9 @@ numbers in the list.
 
 ### DisplayUniqueNumbers.cs
 
+Write a program and ask the user to continously enter a number or type "Quit" to exit. The list of numbers may include
+duplicates. Display the unique numbers that the user has entered.
+
 ## Section 8 - Working with Text
 - [x] ConsecutiveNumbers
 - [x] FindDuplicate
