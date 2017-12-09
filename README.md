@@ -94,7 +94,9 @@ Write a program and ask the user to continously enter a number or type "Quit" to
 duplicates. Display the unique numbers that the user has entered.
 
 ## Section 8 - Working with Text
-- [x] ConsecutiveNumbers
+
+### ConsecutiveNumbers.cs
+
 - [x] FindDuplicate
 - [x] ValidTimeRange
 - [x] ConvertWordToPascalCase
