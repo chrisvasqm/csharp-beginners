@@ -103,7 +103,7 @@ In this section you will be capturing user's input from the console and then per
 Write a program and ask the user to enter a few numbers separated by a hyphon. Workout if the numbers are consecutive. 
 For example, if the input is "5-6-7-8-9" or "20-19-17-16", display a message: "Consecutive"; otherwise, display "Not-Consecutive".
 
-### FindDuplicate.cs
+### [FindDuplicate.cs](https://goo.gl/9NHEa6)
 
 Write a program and ask the user to enter a few numbers separated by a hyphen. If the user simply presses ENTER, without
 supplying any input, exit immediately; otherwise, check to see if there are dulicates. If so, display "Duplicate" on the
