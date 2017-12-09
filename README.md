@@ -131,7 +131,7 @@ user enters "inadequate", the program should display 6 in the console.
 In this section we will be reading the text content of a file that is in the same directory as each exercise 
 (.../Working with Files/words.txt).
 
-### NumberOfWordsInFile.cs
+### [NumberOfWordsInFile.cs](https://goo.gl/bsqNHp)
 
 Write a program that reads a text file and displays the number of words.
 
