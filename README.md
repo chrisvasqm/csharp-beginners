@@ -109,7 +109,7 @@ Write a program and ask the user to enter a few numbers separated by a hyphen. I
 supplying any input, exit immediately; otherwise, check to see if there are dulicates. If so, display "Duplicate" on the
 console.
 
-### ValidTimeRange.cs
+### [ValidTimeRange.cs](https://goo.gl/rUjVf3)
 
 Write a program and ask the user to enter a time value in the 24 hour time format (e.g. 19:00). A valid time should be 
 between 00:00 and 23:59. If the time is valid, display "Ok"; otherwise, display "Invalid Time". IF the user doesn't 
