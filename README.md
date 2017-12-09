@@ -1,6 +1,6 @@
 # C# Basics for Beginners's Exercises
 Sample code for all the exercises from the [C# Basics for Beginners](https://www.udemy.com/csharp-tutorial-for-beginners/learn/v4/overview)
-course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](https://www.udemy.com/)
+course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](https://www.udemy.com/).
 
 ## Section 5 - Control Flow
 
@@ -11,7 +11,7 @@ In this section you will learn how to use **conditional statements** (_if-else_ 
 
 Write a program and ask the user to enter a number. The number should be between 1 to 10. If the user enters a valid 
 number, display "Valid" on the console. Otherwise, display "Invalid". (This logic is used a lot in applications where 
-values entered into input boxes need to be validated.)
+values entered into input boxes need to be validated).
 
 ### [MaxTwoNumbers.cs](https://goo.gl/qogfd7)
 
@@ -49,7 +49,7 @@ For example, if the user enters 5, the program should calculate 5 x 4 x 3 x 2 x 
 
 Write a program that picks a random number between 1 and 10. Give the user 4 chances to guess the number. If the user 
 guesses the number, display “You won"; otherwise, display “You lost". (To make sure the program is behaving correctly, 
-you can display the secret number on the console first.)
+you can display the secret number on the console first).
 
 ### [FindMaxFromList.cs](https://goo.gl/cLa9nA)
 
@@ -96,12 +96,14 @@ duplicates. Display the unique numbers that the user has entered.
 ## Section 8 - Working with Text
 
 In this section you will be capturing user's input from the console and then performing operations on that same data
-(like using the .Split() method to organize the data given, performing certain validation upon it and then outputting a result)
+(like using the .Split() method to organize the data given, performing certain validation upon it and then outputting 
+a result).
 
 ### [ConsecutiveNumbers.cs](https://goo.gl/jy5jmE)
 
 Write a program and ask the user to enter a few numbers separated by a hyphon. Workout if the numbers are consecutive. 
-For example, if the input is "5-6-7-8-9" or "20-19-17-16", display a message: "Consecutive"; otherwise, display "Not-Consecutive".
+For example, if the input is "5-6-7-8-9" or "20-19-17-16", display a message: "Consecutive"; otherwise, display 
+"Not-Consecutive".
 
 ### [FindDuplicate.cs](https://goo.gl/9NHEa6)
 
@@ -119,7 +121,8 @@ provide any values, consider it as invalid time.
 
 Write a program and ask the user to enter a few words separated by a space. Ue the words to create a variable name with 
 PascalCase. For example, if the user types: "number of students", display "NumberOfStudents". Make sure that the program 
-is not dependent on the input. So, if the user types "NUMBER OF STUDENTS", the program should still display "NumberOfStudents".
+is not dependent on the input. So, if the user types "NUMBER OF STUDENTS", the program should still display 
+"NumberOfStudents".
 
 ### [CountVowels.cs](https://goo.gl/s5oP6r)
 
