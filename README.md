@@ -88,7 +88,7 @@ Write a pgram and ask the user to supply a list of coma separated numbers (e.g. 
 or includes less than 5 numbers, disply "Invalid List" and ask the user to re-try; otherwise, display the 3 smallest
 numbers in the list.
 
-- [x] DisplayUniqueNumbers
+### DisplayUniqueNumbers.cs
 
 ## Section 8 - Working with Text
 - [x] ConsecutiveNumbers
