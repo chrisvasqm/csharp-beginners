@@ -124,5 +124,7 @@ Write a program and ask it to enter an English word. Count the nunber of vowels 
 user enters "inadequate", the program should display 6 in the console.
 
 ## Section 9 - Working with Files
-- [x] NumberOfWordsInFile
+
+### NumberOfWordsInFile.cs
+
 - [x] LongestWordInFile
