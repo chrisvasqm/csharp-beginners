@@ -106,7 +106,9 @@ Write a program and ask the user to enter a few numbers separated by a hyphen. I
 supplying any input, exit immediately; otherwise, check to see if there are dulicates. If so, display "Duplicate" on the
 console.
 
-- [x] ValidTimeRange
+### ValidTimeRange.cs
+
+
 - [x] ConvertWordToPascalCase
 - [x] CountVowels
 
