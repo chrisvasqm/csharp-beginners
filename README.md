@@ -114,6 +114,10 @@ provide any values, consider it as invalid time.
 
 ### ConvertWordToPascalCase.cs
 
+Write a program and ask the user to enter a few words separated by a space. Ue the words to create a variable name with 
+PascalCase. For example, if the user types: "number of students", display "NumberOfStudents". Make sure that the program 
+is not dependent on the input. So, if the user types "NUMBER OF STUDENTS", the program should still display "NumberOfStudents".
+
 - [x] CountVowels
 
 ## Section 9 - Working with Files
