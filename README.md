@@ -98,7 +98,7 @@ duplicates. Display the unique numbers that the user has entered.
 In this section you will be capturing user's input from the console and then performing operations on that same data
 (like using the .Split() method to organize the data given, performing certain validation upon it and then outputting a result)
 
-### ConsecutiveNumbers.cs
+### [ConsecutiveNumbers.cs](https://goo.gl/jy5jmE)
 
 Write a program and ask the user to enter a few numbers separated by a hyphon. Workout if the numbers are consecutive. 
 For example, if the input is "5-6-7-8-9" or "20-19-17-16", display a message: "Consecutive"; otherwise, display "Not-Consecutive".
