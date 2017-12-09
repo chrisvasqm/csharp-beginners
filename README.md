@@ -130,3 +130,5 @@ user enters "inadequate", the program should display 6 in the console.
 Write a program that reads a text file and displays the number of words.
 
 ### LongestWordInFile.cs
+
+Write a program that reads a file and displays the longest word in the file.
