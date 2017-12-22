@@ -19,10 +19,10 @@ namespace CSharp_for_Beginners_Exercises.Control_Flow
                 Console.WriteLine("The provided values are the same");
             else
                 Console.WriteLine("Between {0} and {1}, the highest number is: {2}", firstNumber, secondNumber,
-                    GetHigherNumber(firstNumber, secondNumber));
+                    GetHighestNumber(firstNumber, secondNumber));
         }
 
-        private static int GetHigherNumber(int firstNumber, int secondNumber)
+        private static int GetHighestNumber(int firstNumber, int secondNumber)
         {
             return (firstNumber > secondNumber) ? firstNumber : secondNumber;
         }
