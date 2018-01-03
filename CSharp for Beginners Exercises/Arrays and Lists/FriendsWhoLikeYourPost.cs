@@ -26,7 +26,7 @@ namespace CSharp_for_Beginners_Exercises.Arrays_and_Lists
     {
         public static void Run()
         {
-            var likes = new List<string>();
+            var names = new List<string>();
 
             while (true)
             {
@@ -35,31 +35,30 @@ namespace CSharp_for_Beginners_Exercises.Arrays_and_Lists
                 if (string.IsNullOrEmpty(name))
                     break;
 
-                likes.Add(name);
-                Console.WriteLine(GetLikesMessage(likes));
+                names.Add(name);
+                Console.WriteLine(GetLikesMessage(names));
             }
         }
-
-        private static string GetLikesMessage(List<string> likes)
-        {
-            if (likes.Count > 2)
-                return likes[0] + ", " + likes[1] + " and " + GetExtraLikes(likes).Count + " liked your post";
-            if (likes.Count == 2)
-                return likes[0] + " and " + likes[1] + " liked your post";
-
-            return likes[0] + " liked your post";
-        }
-
-
+        
         private static string AskForName()
         {
             Console.WriteLine("Enter a name: (Leave it empty to close the program)");
             return Console.ReadLine();
         }
 
-        private static List<string> GetExtraLikes(List<string> likes)
+        private static string GetLikesMessage(List<string> names)
         {
-            return likes.GetRange(2, likes.Count - 2);
+            if (names.Count > 2)
+                return names[0] + ", " + names[1] + " and " + GetExtraLikes(names).Count + " liked your post";
+            if (names.Count == 2)
+                return names[0] + " and " + names[1] + " liked your post";
+
+            return names[0] + " liked your post";
+        }
+
+        private static List<string> GetExtraLikes(List<string> names)
+        {
+            return names.GetRange(2, names.Count - 2);
         }
     }
 }
