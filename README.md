@@ -60,7 +60,7 @@ display it on the console. For example, if the user enters “5, 3, 8, 1, 4", th
 
 This section is focused on how Arrays and Lists work, what are their similarities and differences, and use cases.
 
-### [FriendsWhoLikeYourPost.cs](https://goo.gl/GRXQao)
+### [FriendsWhoLikeYourPost.cs](https://goo.gl/1fqsCc)
 
 When you post a message on Facebook, depending on the number of people who like your post, Facebook displays different information.
 
