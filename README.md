@@ -72,24 +72,24 @@ When you post a message on Facebook, depending on the number of people who like 
 Write a program and continuously ask the user to enter different names, until the user presses Enter (without supplying 
 a name). Depending on the number of names provided, display a message based on the above pattern.
 
-### [ReverseGivenName.cs](https://goo.gl/gfXqWt)
+### [ReverseGivenName.cs](https://github.com/chrisvasqm/csharp-beginners/blob/master/CSharp%20for%20Beginners%20Exercises/Arrays%20and%20Lists/ReverseGivenName.cs)
 
 Write a program and ask the user to enter their name. Use an array to reverse the name and then store the result in a 
 new string. Display the reversed name on the console.
    
-### [SortFiveUniqueNumbers.cs](https://goo.gl/g6TTDh)
+### [SortFiveUniqueNumbers.cs](https://github.com/chrisvasqm/csharp-beginners/blob/master/CSharp%20for%20Beginners%20Exercises/Arrays%20and%20Lists/SortFiveUniqueNumbers.cs)
 
 Write a program and ask the user to enter 5 numbers. If a number has been previously entered, display an error message
 and ask the user to re-try. Once the user succesfully enters 5 unique numbers, sort them and display the result on the
 console.
 
-### [ThreeSmallestNumbersInList.cs](https://goo.gl/wmYUUo)
+### [ThreeSmallestNumbersInList.cs](https://github.com/chrisvasqm/csharp-beginners/blob/master/CSharp%20for%20Beginners%20Exercises/Arrays%20and%20Lists/ThreeSmallestNumbersInList.cs)
 
 Write a pgram and ask the user to supply a list of coma separated numbers (e.g. 5, 1, 9, 2, 10). If the list is empty
 or includes less than 5 numbers, disply "Invalid List" and ask the user to re-try; otherwise, display the 3 smallest
 numbers in the list.
 
-### [DisplayUniqueNumbers.cs](https://goo.gl/oyJJ5a)
+### [DisplayUniqueNumbers.cs](https://github.com/chrisvasqm/csharp-beginners/blob/master/CSharp%20for%20Beginners%20Exercises/Arrays%20and%20Lists/DisplayUniqueNumbers.cs)
 
 Write a program and ask the user to continously enter a number or type "Quit" to exit. The list of numbers may include
 duplicates. Display the unique numbers that the user has entered.
@@ -100,32 +100,32 @@ In this section you will be capturing user's input from the console and then per
 (like using the .Split() method to organize the data given, performing certain validation upon it and then outputting 
 a result).
 
-### [ConsecutiveNumbers.cs](https://goo.gl/jy5jmE)
+### [ConsecutiveNumbers.cs](https://github.com/chrisvasqm/csharp-beginners/blob/master/CSharp%20for%20Beginners%20Exercises/Working%20with%20Text/ConsecutiveNumbers.cs)
 
 Write a program and ask the user to enter a few numbers separated by a hyphon. Workout if the numbers are consecutive. 
 For example, if the input is "5-6-7-8-9" or "20-19-17-16", display a message: "Consecutive"; otherwise, display 
 "Not-Consecutive".
 
-### [FindDuplicate.cs](https://goo.gl/9NHEa6)
+### [FindDuplicate.cs](https://github.com/chrisvasqm/csharp-beginners/blob/master/CSharp%20for%20Beginners%20Exercises/Working%20with%20Text/FindDuplicate.cs)
 
 Write a program and ask the user to enter a few numbers separated by a hyphen. If the user simply presses ENTER, without
 supplying any input, exit immediately; otherwise, check to see if there are dulicates. If so, display "Duplicate" on the
 console.
 
-### [ValidTimeRange.cs](https://goo.gl/rUjVf3)
+### [ValidTimeRange.cs](https://github.com/chrisvasqm/csharp-beginners/blob/master/CSharp%20for%20Beginners%20Exercises/Working%20with%20Text/ValidTimeRange.cs)
 
 Write a program and ask the user to enter a time value in the 24 hour time format (e.g. 19:00). A valid time should be 
 between 00:00 and 23:59. If the time is valid, display "Ok"; otherwise, display "Invalid Time". IF the user doesn't 
 provide any values, consider it as invalid time.
 
-### [ConvertWordToPascalCase.cs](https://goo.gl/vrhmWr)
+### [ConvertWordToPascalCase.cs](https://github.com/chrisvasqm/csharp-beginners/blob/master/CSharp%20for%20Beginners%20Exercises/Working%20with%20Text/ConvertWordToPascalCase.cs)
 
 Write a program and ask the user to enter a few words separated by a space. Ue the words to create a variable name with 
 PascalCase. For example, if the user types: "number of students", display "NumberOfStudents". Make sure that the program 
 is not dependent on the input. So, if the user types "NUMBER OF STUDENTS", the program should still display 
     "NumberOfStudents".
 
-### [CountVowels.cs](https://goo.gl/s5oP6r)
+### [CountVowels.cs](https://github.com/chrisvasqm/csharp-beginners/blob/master/CSharp%20for%20Beginners%20Exercises/Working%20with%20Text/CountVowels.cs)
 
 Write a program and ask it to enter an English word. Count the nunber of vowels (a, e, i, o, u) in the word. So, if the 
 user enters "inadequate", the program should display 6 in the console.
@@ -135,10 +135,10 @@ user enters "inadequate", the program should display 6 in the console.
 In this section we will be reading the text content of a file that is in the same directory as each exercise 
 (.../Working with Files/words.txt).
 
-### [NumberOfWordsInFile.cs](https://goo.gl/bsqNHp)
+### [NumberOfWordsInFile.cs](https://github.com/chrisvasqm/csharp-beginners/blob/master/CSharp%20for%20Beginners%20Exercises/Working%20with%20Files/NumberOfWordsInFile.cs)
 
 Write a program that reads a text file and displays the number of words.
 
-### [LongestWordInFile.cs](https://goo.gl/1mXeqj)
+### [LongestWordInFile.cs](https://github.com/chrisvasqm/csharp-beginners/blob/master/CSharp%20for%20Beginners%20Exercises/Working%20with%20Files/LongestWordInFile.cs)
 
 Write a program that reads a file and displays the longest word in the file.
